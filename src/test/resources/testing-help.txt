@@ -2,5 +2,3 @@ Display Message application
 Post Message
     Request -- > message, to, from
     Response --> id, message, to, from, data, time
-
-
